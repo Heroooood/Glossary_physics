@@ -1,0 +1,5 @@
+\newglossaryentry{Electromagnetic spectrum}
+{ 
+    name=Electromagnetic spectrum,
+    description={The electromagnetic spectrum is all of the possible frequencies of electromagnetic radiation. The list is: Radio wave, microwave, infra-red, visible light, ultra-violet, x-rays, gammarays. }
+}
