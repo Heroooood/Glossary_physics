@@ -1,0 +1,5 @@
+\newglossaryentry{fusion}
+{ 
+    name=fusion,
+    description={a thermonuclear reaction in which nuclei of light atoms join to form nuclei of heavier atoms, as the combination of deuterium atoms to form helium atoms. }
+}
