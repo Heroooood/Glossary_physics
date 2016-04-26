@@ -1,0 +1,5 @@
+\newglossaryentry{Rotational Kinetic Energy}
+{ 
+    name=Rotational kinetic Energy,
+    description={it is the kinetic energy due to the rotation of an object. Another name as angular rotational kinetic energy}
+}
