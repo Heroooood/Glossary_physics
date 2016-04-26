@@ -1,0 +1,5 @@
+\newglossaryentry{work-energy theorem}
+{ 
+    name=work-energy theorem,
+    description={Work is here related to energy, Force is connected to acceleration through F = ma }
+}
